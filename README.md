@@ -1,4 +1,4 @@
 # Quickuipo
 ---
-flask application making trading easy
+twitter clone in MERNG 
 ---
