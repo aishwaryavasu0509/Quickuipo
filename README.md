@@ -1,4 +1,4 @@
 # Quickuipo
 ---
-twitter clone in MERNG 
+blog application using nodejs,expressjs,mongodb,react (MERN)
 ---
